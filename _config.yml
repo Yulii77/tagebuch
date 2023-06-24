@@ -1,11 +1,11 @@
 # Setup
 title:               Journey
 tagline:             'keep notes'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://yulii77.github.io
+description:         
+url:                 http://yulii77.github.io/tagebuch
 baseurl:             ''
 paginate:            5
-permalink:           pretty
+permalink:           
 
 # About/contact
 author:
