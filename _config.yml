@@ -11,7 +11,7 @@ title                    : "浮潜 OneDive"
 title_separator          : " "
 name                     : &name ""
 description              : &description ""
-url                      : https://yulii77.github.io/onedive/
+url                      : https://one-dive.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://one-dive.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
