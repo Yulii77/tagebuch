@@ -13,7 +13,7 @@ name                     : &name ""
 description              : &description ""
 url                      : https://yulii77.github.io/onedive/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://yulii77.github.io/onedive/"
+repository               : "https://one-dive.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuli"
+  name             : "( ö )"
   avatar           : "profile.png"
   bio              : "collector🧩"
   location         : "Erde"
